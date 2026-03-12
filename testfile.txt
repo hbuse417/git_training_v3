@@ -1,2 +1,4 @@
 this is a test file for download
 ein weiterer download erfolgte
+
+Authentifizierung war erfolgreich
